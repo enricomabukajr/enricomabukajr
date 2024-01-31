@@ -1,0 +1,58 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\ACER\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js install
+
+PATH: 
+  C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Users\ACER\Scripts\;C:\Users\ACER\;C:\Program Files\Microsoft MPI\Bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\jdk-19\bin;C:\Program Files\dotnet;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Git\cmd;C:\composer;C:\Program Files\Java\jdk-20\bin;C:\sqlite;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\ProgramData\ComposerSetup\bin;C:\Program Files\nodejs\;C:\xampp\php;C:\Program Files (x86)\Microsoft Visual Studio\Common\Tools\WinNT;C:\Program Files (x86)\Microsoft Visual Studio\Common\MSDev98\Bin;C:\Program Files (x86)\Microsoft Visual Studio\Common\Tools;C:\Program Files (x86)\Microsoft Visual Studio\VC98\bin;C:\Users\ACER\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Azure Data Studio\bin;C:\Users\ACER\.dotnet\tools;C:\Program Files\dotnet;C:\Users\ACER\AppData\Local\Microsoft\WindowsApps;C:\Users\ACER\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ACER\.dotnet\tools;C:\Program Files\Azure Data Studio\bin;C:\Users\ACER\AppData\Roaming\npm;C:\xampp\php;C:\composer;C:\Users\ACER\ComposerGlobal;C:\Users\ACER\AppData\Roaming\Composer\vendor\bin;C:\Users\ACER\AppData\Local\GitHubDesktop\bin;C:\Users\ACER\AppData\Local\gitkraken\bin;C:\ProgramData\ACER\gitkraken\bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.16.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, open 'C:\Users\ACER\AppData\Local\Yarn\Cache\v6\npm-@esbuild-win32-x64-0.18.20-786c5f41f043b07afb1af37683d7c33668858f6d-integrity\node_modules\@esbuild\win32-x64\.yarn-metadata.json'
+
+npm manifest: 
+  {
+    "name": "3dfolio",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "@emailjs/browser": "^3.10.0",
+      "@react-three/drei": "^9.56.24",
+      "@react-three/fiber": "^8.11.1",
+      "framer-motion": "^9.0.7",
+      "maath": "^0.5.2",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-router-dom": "^6.8.1",
+      "react-tilt": "^0.1.4",
+      "react-vertical-timeline-component": "^3.6.0",
+      "three": "^0.149.0"
+    },
+    "devDependencies": {
+      "@types/react": "^18.0.27",
+      "@types/react-dom": "^18.0.10",
+      "@vitejs/plugin-react": "^3.1.0",
+      "autoprefixer": "^10.4.13",
+      "postcss": "^8.4.21",
+      "tailwindcss": "^3.2.6",
+      "vite": "^4.1.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
