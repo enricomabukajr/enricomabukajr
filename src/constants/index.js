@@ -125,10 +125,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "June 2023 - September 2023",
     points: [
-      "Developing and maintaining web applications using Angular, .NET and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Experienced in full-stack development, particularly skilled in C# .NET Zero (Angular & Asp .NET EntityCore), with a proven history of delivering high-quality and scalable solutions.",
+      "Skilled in a variety of architectural paradigms, such as MVC, ORM, GraphQL API, Domain Driven Design, and others, and able to create software solutions with flexibility and adaptability.",
+      "Integrated version control systems such as Git Repository into development workflows, facilitating efficient collaboration and tracking of code changes.",
+      "Proficient in problem-solving and debugging techniques, with a strong aptitude for collaboration and effective communication, enabling seamless teamwork and successful project outcomes.",
     ],
   },
   {
@@ -138,10 +138,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "June 2021 - Present",
     points: [
-      "Efficiently managing and allocating resources within the production team.",
-      "Maintain project requirements, timelines, and available resources to ensure that the team has the necessary tools and manpower to meet production goals.",
-      "Implementing and monitoring quality control measures throughout the production process.",
-      "Effective resource planning contributes to the smooth execution of projects and helps in preventing delays or bottlenecks in the production process.",
+      "Experienced in server-side development, including PHP Laravel, PHP Native, and other relevant frameworks, demonstrating proficiency in building robust backend solutions to meet diverse project requirements",
+      "Proficient in utilizing Node.js, Express.js, and proficient in REST API documentation, ensuring clear and comprehensive communication of API functionalities and usage",
+      "Adhered to Agile principles, actively participating in collaborative meetings within the department, fostering efficient communication and teamwork in project development",
+      "Proficient in team leadership and development, adept at guiding and nurturing team members to achieve their full potential while fostering a collaborative and supportive work environment",
     ],
   },
   {
@@ -185,9 +185,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Reservation System",
+    name: "Customer Management System",
     description:
-      "Reservation System aims to provide a efficient way for students interested in music and arts programs to reserve their spots and manage their enrollment details.",
+      "Independently developed a CIMS web application enabling coaches to efficiently manage their students while providing students with the ability to monitor their individual progress and status.",
     tags: [
       {
         name: "Angular",
